@@ -1,1 +1,9 @@
 content
+
+git status: check the repo to see if there's changes
+
+git add . : . stands for current directory. add everything to staging (right before commit)
+
+git commit -m "do this" : -m stands for message and always use "do, add, remove"
+
+git push: send it to github
