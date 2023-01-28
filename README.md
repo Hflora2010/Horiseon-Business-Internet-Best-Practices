@@ -13,11 +13,11 @@ What are the steps required to install your project? Provide a step-by-step desc
 Starter code was provided by Xandromus: https://github.com/coding-boot-camp/urban-octo-telegram
 
 Resource Pages: 
-<a href="https://www.w3schools.com/html/html5_semantic_elements.asp"> Semantic Elements</a>
-<a href="https://www.w3schools.com/html/html_attributes.asp"> Attributes</a>
-<a href="https://www.w3schools.com/html/html_id.asp"> Id Elements</a>
-<a href="https://www.w3schools.com/css/css_website_layout.asp"> CSS Layout</a>
-<a href="https://www.w3schools.com/css/css_selectors.asp"> CSS Selectors</a>
+<a href="https://www.w3schools.com/html/html5_semantic_elements.asp"> Semantic Elements</a> <br>
+<a href="https://www.w3schools.com/html/html_attributes.asp"> Attributes</a> <br>
+<a href="https://www.w3schools.com/html/html_id.asp"> Id Elements</a> <br>
+<a href="https://www.w3schools.com/css/css_website_layout.asp"> CSS Layout</a> <br>
+<a href="https://www.w3schools.com/css/css_selectors.asp"> CSS Selectors</a> <br>
 <a href="https://www.w3schools.com/html/html_comments.asp"> HTML Comments</a>
 
 
