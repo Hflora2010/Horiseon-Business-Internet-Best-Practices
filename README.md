@@ -16,8 +16,6 @@ To access this website, you can follow the link below:
 
 Below is a screenshot of the website you will access with the link above:
 
-/Users/hailey/Documents/Homework/starter-code/urban-octo-telegram/Develop/assets/images/Website-preview.png
-
 <img src="/Users/hailey/Documents/Homework/starter-code/urban-octo-telegram/Develop/assets/images/Website-preview.png" alt="horiseon's landing page">
 
 ## Credits
