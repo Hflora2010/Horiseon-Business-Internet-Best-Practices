@@ -8,6 +8,16 @@ Horiseon's landing page although from the outside looks clean, did not meet acce
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
+## Usage
+
+To access this website, you can follow the link below: 
+
+<a target="_blank" href="Website-link">Horiseon</a>
+
+Below is a screenshot of the website you will access with the link above: 
+
+<img src="./assets/images/Website-preview.png" alt="horiseon's landing page">
+
 ## Credits
 
 Starter code was provided by Xandromus: https://github.com/coding-boot-camp/urban-octo-telegram
@@ -19,12 +29,3 @@ Reference Pages: <br>
 <a href="https://www.w3schools.com/css/css_website_layout.asp"> CSS Layout</a> <br>
 <a href="https://www.w3schools.com/css/css_selectors.asp"> CSS Selectors</a> <br>
 <a href="https://www.w3schools.com/html/html_comments.asp"> HTML Comments</a>
-
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
