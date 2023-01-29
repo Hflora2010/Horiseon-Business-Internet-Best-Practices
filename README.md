@@ -16,7 +16,7 @@ To access this website, you can follow the link below:
 
 Below is a screenshot of the website you will access with the link above: 
 
-<img src="./assets/images/Website-preview.png" alt="horiseon's landing page">
+<img src="urban-octo-telegram/Develop/assets/images/Website-preview.png" alt="horiseon's landing page">
 
 ## Credits
 
