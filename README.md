@@ -8,7 +8,7 @@ Horiseon's landing page although from the outside looks clean, did not meet acce
 
 Below is a screenshot of the website you will access with the link above:
 
-![Alt text](./Develop/assets/images/Website-preview.png?raw=true "Screen-Shot")
+![Alt text](./assets/images/Website-preview.png?raw=true "Screen-Shot")
 
 ## Credits
 
